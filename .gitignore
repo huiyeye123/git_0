@@ -1,0 +1,4 @@
+#将被git忽略
+.git
+*.xls
+second.css
